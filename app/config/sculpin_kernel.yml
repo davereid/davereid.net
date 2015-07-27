@@ -1,0 +1,9 @@
+sculpin_content_types:
+    posts:
+        permalink: pretty
+    recipes:
+        path: recipes
+        permalink: pretty
+    task:
+        path: talks
+        permalink: pretty

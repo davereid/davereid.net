@@ -1,0 +1,5 @@
+imports:
+    - sculpin_site.yml
+google_analytics_tracking_id: UA-246313-1
+disqus_shortname: davereid
+url: https://www.davereid.net

@@ -1,0 +1,11 @@
+---
+layout: default
+title: Recipes
+use:
+  - recipes
+---
+<ul>
+    {% for recipe in data.recipes %}
+    <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
+    {% endfor %}
+</ul>
